@@ -19,7 +19,10 @@ to draw square
 
 <img width="970" alt="‏لقطة الشاشة ١٤٤٥-١٢-٢٨ في ٥ ٠٧ ٤٦ م" src="https://github.com/ijana7/Manipulate-with-turtlesim-package-ros1-and-ros2/assets/173642526/06ec2b74-c838-4c97-a32a-089807743712">
 
-Move with the keyboard buttons
+
+<img width="976" alt="‏لقطة الشاشة ١٤٤٥-١٢-٢٨ في ٥ ٢٨ ١٢ م" src="https://github.com/ijana7/install-ros1-and-ros2/assets/173642526/8a914c6d-63de-4f6b-a226-e1ddcc2b1309">
+
+also Move with the keyboard buttons
 
 <img width="1029" alt="‏لقطة الشاشة ١٤٤٥-١٢-٢٨ في ٥ ٠٩ ١٨ م" src="https://github.com/ijana7/Manipulate-with-turtlesim-package-ros1-and-ros2/assets/173642526/9704d3d6-ef01-49f1-90fe-cd52965537a7">
 
