@@ -6,13 +6,14 @@ Publishes turtle position and accepts velocity commands
 ## in ros 1
 
 write in terminal
-
+```
 roscore
-
+```
 <img width="1016" alt="‏لقطة الشاشة ١٤٤٥-١٢-٢٨ في ٥ ٠٤ ٠٧ م" src="https://github.com/ijana7/Manipulate-with-turtlesim-package-ros1-and-ros2/assets/173642526/ebe5bdf6-9f29-405e-854c-02974010bab4">
 
+```
 rosrun turtlesim turtlesim_node
-
+```
 <img width="1022" alt="‏لقطة الشاشة ١٤٤٥-١٢-٢٨ في ٥ ٠٦ ١٠ م" src="https://github.com/ijana7/Manipulate-with-turtlesim-package-ros1-and-ros2/assets/173642526/92d1350d-9cb7-4d30-8ad0-266c0fdece4e">
 
 to draw square
